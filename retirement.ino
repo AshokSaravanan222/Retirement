@@ -1,3 +1,5 @@
+// Created 11-14-21
+
 #include <NTPClient.h>
 // change next line to use with another board/shield
 #include <ESP8266WiFi.h>
@@ -19,8 +21,8 @@ int dt = 1;
 int mt = 1;
 Metro metro0 = Metro(mt);
 
-const char *ssid     = "ashokhome";
-const char *password = "A7D0A5E8CA";
+const char *ssid     = "wifi-username";
+const char *password = "wifi-password";
 
 unsigned long theDay = 2015560800;
 
