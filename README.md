@@ -1,7 +1,9 @@
 # Retirement
-Created: 11/14/21
+Author: Ashok Saravanan
 
-Arduino Project to track and display days until my dad retires
+Created 10-18-2021
+
+This is an Arduino Project that tracks and displays the number of days until my dad retires.
 
 # Images
 
